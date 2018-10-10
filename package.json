@@ -1,0 +1,11 @@
+{
+  "name": "mediashout-mediashout6",
+  "version": "1.0.0",
+  "description": "A companion module to control the Mediashout church presentation software",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Oliver Herrmann",
+  "license": "MIT"
+}
